@@ -1,0 +1,64 @@
+#mary {
+    border:3px solid rgb(0, 0, 0);
+    background-color: grey;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    color:rgb(142, 223, 226);
+}
+img{
+    height:50vh;
+    width:25vw;
+}
+#abouther{
+    display: flex;
+    justify-content: space-between;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+}
+.infoabther{
+    margin: 10px;
+}
+#new{
+    height: 50vh;
+    width:25vw;
+}
+#para{
+    font-size: x-large;
+}
+#career{
+    font-size: larger;
+    border:5px solid  #385170;
+    
+    background: #dbfdf5;
+    width:50%;
+    /* align-items: center; */
+    margin-left:25% ;
+    
+}
+.info{
+
+    font-size: larger;
+    border:5px solid #385170;
+    padding-right:0;
+    background: #dbfdf5;
+    width:50%;
+    align-items: flex-end;
+}
+#her{
+    display: flex;
+    justify-content: center;
+}
+#fun{
+    display: flex;
+    justify-content: center;
+    background-color: #dbfdf5;
+    border: 3px solid  #385170;
+}
+body{
+    background: #ececec;
+}
+#ppp{
+    display: flex;
+    justify-content: center;
+}
